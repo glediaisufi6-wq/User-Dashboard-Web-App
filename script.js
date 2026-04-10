@@ -1,4 +1,4 @@
-let users = ["Ardit", "Elira"];
+let users = ["Ardit", "Elira", "Sara"];
 
 function renderUsers() {
   let list = document.getElementById("userList");
